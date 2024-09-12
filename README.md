@@ -60,7 +60,7 @@ A footer has been used in the "footer_about" class of the website and contact de
 A summary of the website has been placed in the website using "details" ans "summary" tags and gives an overview of the website.
 
 ### Menu:
-a <Menu> tag has been used in features we offer section which gives the features offerd the organisation.
+a "Menu" tag has been used in features we offer section which gives the features offerd the organisation.
 
 ### Tel for contact information:
 Has been added in the footer section of the website using anchor tag and "mailto".
