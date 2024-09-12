@@ -45,10 +45,10 @@ I have used many images using <img> tag and used images as Favicon, back ground 
 Have placed 3 buttons in the whole website 2 in the index page and 1 in contact page using "hero-btn" class. Where 2 buttons in index will lead to contact page and button in contact leads to the thank you page.
 
 ### Audio:
-An Audio has been placed in the "word from oue founder" section using <Audio> tag.
+An Audio has been placed in the "word from oue founder" section using "Audio" tag.
 
 ### Video:
-A video has been placed in the "what are smart homes section of website" using <video> tag.
+A video has been placed in the "what are smart homes section of website" using "video" tag.
 
 ### Header:
 Header has been used in the "header_sec" class of the website and the logo and the nav bar are placed in header.
@@ -57,7 +57,7 @@ Header has been used in the "header_sec" class of the website and the logo and t
 A footer has been used in the "footer_about" class of the website and contact details, mail, mobile number have been placed in the footer.
 
 ### Summary:
-A summary of the website has been placed in the website using <details> ans <summary> tags and gives an overview of the website.
+A summary of the website has been placed in the website using "details" ans "summary" tags and gives an overview of the website.
 
 ### Menu:
 a <Menu> tag has been used in features we offer section which gives the features offerd the organisation.
