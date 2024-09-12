@@ -33,7 +33,7 @@ In this page we add styles to the html pages using text align, size and style ba
 Table is used in features section of the ![index page](index.html) page which I used to show the different plans offered by the organisation.
 
 ### Form: 
-Form is creaed in the ![registration form](contact.html) where we colllect the details from the user.
+Form is created in the ![registration form](contact.html) where we colllect the details from the user.
 
 ### Images: 
 I have used many images using <img> tag and used images as Favicon, back ground and used some images in website. I had also used CSS features.
